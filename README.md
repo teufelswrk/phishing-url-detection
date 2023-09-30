@@ -1,5 +1,4 @@
-# phishing-url-detection
-Phishing URL Detection (simple URL Link Checker Tool)
+# Phishing URL Detection
 
 ## Introduction
 
