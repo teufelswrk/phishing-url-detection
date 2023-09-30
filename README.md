@@ -52,8 +52,8 @@ Please enter the URL to check for phishing:
 
 The script will then analyze the URL and display a message indicating whether it might be a phishing link or not.
 
-=> If it's flagged as a phishing link, it will display a warning message.
-=> If it's not flagged, it will indicate that the URL is not considered a phishing link.
+  If it's flagged as a phishing link, it will display a warning message.
+  If it's not flagged, it will indicate that the URL is not considered a phishing link.
 
 ## Important Note
 
