@@ -1,5 +1,5 @@
 # phishing-url-detection
-URL Link Checker Tool
+Phishing URL Detection (simple URL Link Checker Tool)
 
 ## Introduction
 
@@ -36,3 +36,34 @@ Run the script using the following command:
 python phishing_detection.py
 
 ```
+
+## Usage
+
+### 1. Input URL
+
+When you run the script, it will prompt you to enter a URL. Type or paste the URL you want to check and press Enter.
+
+```python
+
+Please enter the URL to check for phishing:
+
+```
+
+### 2. Result
+
+The script will then analyze the URL and display a message indicating whether it might be a phishing link or not.
+
+    If it's flagged as a phishing link, it will display a warning message.
+    If it's not flagged, it will indicate that the URL is not considered a phishing link.
+
+## Important Note
+
+This script provides only basic URL pattern matching and may not detect all phishing attempts. For comprehensive phishing protection, consider using dedicated security solutions.
+
+## Contributing
+
+If you'd like to contribute to the script or report issues, please visit the GitHub repository.
+
+## License
+
+This script is distributed under the MIT License.
