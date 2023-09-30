@@ -16,7 +16,9 @@ When you run this script, it will prompt the user to enter a URL. The script wil
 You can download the script directly from GitHub >> https://github.com/teufelswrk/phishing-url-detection.git << or by using the git clone command:
 
 ```bash
+
 git clone https://github.com/teufelswrk/phishing-url-detection.git
+
 ```
 
 ### Python Version
@@ -29,6 +31,8 @@ Open a terminal or command prompt and navigate to the directory where you downlo
 
 Run the script using the following command:
 
-bash
+```bash
 
 python phishing_detection.py
+
+```
