@@ -13,7 +13,7 @@ When you run this script, it will prompt the user to enter a URL. The script wil
 
 ### Download the Script
 
-You can download the script directly from GitHub https://github.com/teufelswrk/phishing-url-detection.git or by using the git clone command:
+You can download the script directly from GitHub >> https://github.com/teufelswrk/phishing-url-detection.git << or by using the git clone command:
 
 ```bash
 git clone https://github.com/teufelswrk/phishing-detection.git
@@ -21,7 +21,7 @@ git clone https://github.com/teufelswrk/phishing-detection.git
 
 ### Python Version
 
-Ensure you have Python 3.x installed on your system. If not, you can download it from the official Python website.
+Ensure you have Python 3.x installed on your system. If not, you can download it from the [official Python website](https://www.python.org/downloads/).
 
 ### Run the Script
 
