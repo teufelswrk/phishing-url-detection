@@ -62,7 +62,7 @@ This script provides only basic URL pattern matching and may not detect all phis
 
 ## Contributing
 
-If you'd like to contribute to the script or report issues, please visit the GitHub repository.
+If you'd like to contribute to the script or report issues, please visit the [GitHub repository](https://github.com/teufelswrk/phishing-url-detection).
 
 ## License
 
